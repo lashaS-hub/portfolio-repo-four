@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: d25d0d4df7e7ba2438638941fbe8afa4
+timeCreated: 1526193320
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Mister Loopy Fill
+  fontNames:
+  - Mister Loopy Fill
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

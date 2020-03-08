@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08267d202f4a0d742b3cd60b5b7139ef, type: 3}
+  m_Name: 1 Earth World
+  m_EditorClassIdentifier: 
+  WorldPrefab: {fileID: 1643306856973896, guid: b5d276befac52c04ca20a8169d4daa3f,
+    type: 2}
+  AcceleratorPrefab: {fileID: 1531895735822572, guid: 412616e4ecd5f964db066fcf8ef2c443,
+    type: 2}
+  skyBox: {fileID: 2100000, guid: 1fb55be7321a6cb44b1bc2b64d8ad30a, type: 2}
+  worldIcon: {fileID: 21300000, guid: 8db925ef147e74e4f8d31c854d2039bd, type: 3}
+  zones:
+  - material: {fileID: 2100000, guid: db19bff5008925048a07522355cf8468, type: 2}
+    possibleColors:
+    - {r: 1, g: 0, b: 0, a: 1}
+    - {r: 0.19117647, g: 1, b: 0.29716036, a: 1}
+    - {r: 0.19215685, g: 0.98465055, b: 1, a: 1}
+    - {r: 1, g: 0.48584908, b: 0.91900367, a: 1}

@@ -1,0 +1,37 @@
+{
+  "client": [
+    {
+      "services": {
+        "appinvite_service": {
+          "status": 1
+        }, 
+        "analytics_service": {
+          "status": 0
+        }
+      }, 
+      "oauth_client": [
+        {
+          "client_id": "157650798670-h579std0080u3vtu4tm1adv40hc6o7s4.apps.googleusercontent.com"
+        }
+      ], 
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxjTucvHWJ1gkaT35RsOSxVoObc05HINQ"
+        }
+      ], 
+      "client_info": {
+        "mobilesdk_app_id": "1:157650798670:ios:998077a534d4e7df", 
+        "android_client_info": {
+          "package_name": "com.nefster.hyperloop"
+        }
+      }
+    }
+  ], 
+  "configuration_version": "1", 
+  "project_info": {
+    "storage_bucket": "hyperloop-1bbc6.appspot.com", 
+    "project_id": "hyperloop-1bbc6", 
+    "firebase_url": "https://hyperloop-1bbc6.firebaseio.com", 
+    "project_number": "157650798670"
+  }
+}

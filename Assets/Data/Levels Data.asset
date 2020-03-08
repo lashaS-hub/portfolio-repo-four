@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1594de47df42f854f8833b5231b91906, type: 3}
+  m_Name: Levels Data
+  m_EditorClassIdentifier: Assembly-CSharp::LevelsData
+  list:
+    levels:
+    - loop: 3
+      offset: 20
+      Pattern: 0101000100
+      startDPS: 10
+      perfectDist: 80
+      mediumDist: 120
+      speedModifier: 1.1
+      minScore: 200
+      goal: 10
+    - loop: 3
+      offset: 20
+      Pattern: 0101000100
+      startDPS: 17.5
+      perfectDist: 30
+      mediumDist: 120
+      speedModifier: 1.1
+      minScore: 200
+      goal: 12
+    - loop: 3
+      offset: 20
+      Pattern: 0100010001
+      startDPS: 17.5
+      perfectDist: 30
+      mediumDist: 80
+      speedModifier: 1.4
+      minScore: 300
+      goal: 15
+    - loop: 3
+      offset: 20
+      Pattern: 0100000101
+      startDPS: 25
+      perfectDist: 30
+      mediumDist: 60
+      speedModifier: 1.4
+      minScore: 400
+      goal: 20
+    - loop: 2
+      offset: 30
+      Pattern: 0101000101
+      startDPS: 30
+      perfectDist: 30
+      mediumDist: 60
+      speedModifier: 1.2
+      minScore: 400
+      goal: 20
+    - loop: 2
+      offset: 27
+      Pattern: 0101000101
+      startDPS: 30
+      perfectDist: 30
+      mediumDist: 60
+      speedModifier: 1.4
+      minScore: 500
+      goal: 22
+    - loop: 5
+      offset: 25
+      Pattern: 0001
+      startDPS: 40
+      perfectDist: 30
+      mediumDist: 60
+      speedModifier: 3
+      minScore: 500
+      goal: 25
+    - loop: 2
+      offset: 25
+      Pattern: 00010100000101
+      startDPS: 35
+      perfectDist: 30
+      mediumDist: 50
+      speedModifier: 2
+      minScore: 700
+      goal: 25
+    - loop: 5
+      offset: 20
+      Pattern: 01010100
+      startDPS: 35
+      perfectDist: 30
+      mediumDist: 50
+      speedModifier: 2
+      minScore: 700
+      goal: 25

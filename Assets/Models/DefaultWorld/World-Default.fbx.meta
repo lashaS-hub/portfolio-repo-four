@@ -1,0 +1,406 @@
+fileFormatVersion: 2
+guid: 7e8815ad722ddae4a92c2ae4a88545db
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Box001
+    100002: Box001_001
+    100004: Box002
+    100006: Box002_001
+    100008: Box002_002
+    100010: Box002_003
+    100012: Box002_004
+    100014: Box004
+    100016: Cylinder001
+    100018: Cylinder001_001
+    100020: Earth
+    100022: model_004
+    100024: Pagoda_mesh
+    100026: Pagoda_mesh_001
+    100028: Pyramid001
+    100030: Pyramid002
+    100032: Pyramid003
+    100034: Skyscraper_mesh
+    100036: Skyscraper_mesh_001
+    100038: volcano_003
+    100040: volcano_004
+    100042: volcano_007
+    100044: //RootNode
+    400000: Box001
+    400002: Box001_001
+    400004: Box002
+    400006: Box002_001
+    400008: Box002_002
+    400010: Box002_003
+    400012: Box002_004
+    400014: Box004
+    400016: Cylinder001
+    400018: Cylinder001_001
+    400020: Earth
+    400022: model_004
+    400024: Pagoda_mesh
+    400026: Pagoda_mesh_001
+    400028: Pyramid001
+    400030: Pyramid002
+    400032: Pyramid003
+    400034: Skyscraper_mesh
+    400036: Skyscraper_mesh_001
+    400038: volcano_003
+    400040: volcano_004
+    400042: volcano_007
+    400044: //RootNode
+    2100000: Skyscraper_mat2__Skyscraper_BaseColor_png
+    2100002: 07___Default_001
+    2100004: lambert2SG__Pagoda_BaseColor_png
+    2100006: 11___Default
+    2100008: Material__337
+    2100010: 14___Default
+    2100012: 15___Default
+    2100014: Material__341
+    2100016: 13___Default
+    2100018: Material__336
+    2100020: Material__340
+    2100022: 17___Default
+    2100024: Material__339
+    2100026: Material__338
+    2100028: 16___Default
+    2100030: 07___Default
+    2100032: 02___Default
+    2100034: 08___Default
+    2100036: 03___Default
+    2100038: 01___Default
+    2100040: Material__488
+    2100042: Material__487
+    2100044: 19___Default
+    2100046: Material__490
+    2100048: Material__489
+    2100050: 20___Default
+    2100052: mat6
+    2100054: mat16
+    2100056: mat13
+    2100058: mat23_002
+    2100060: mat15
+    2100062: mat21_002
+    2100064: None__PUSHILIN_volcano_png
+    2100066: Mat__1227_Earth_png
+    2300000: Box001
+    2300002: Box001_001
+    2300004: Box002
+    2300006: Box002_001
+    2300008: Box002_002
+    2300010: Box002_003
+    2300012: Box002_004
+    2300014: Box004
+    2300016: Cylinder001
+    2300018: Cylinder001_001
+    2300020: Earth
+    2300022: model_004
+    2300024: Pagoda_mesh
+    2300026: Pagoda_mesh_001
+    2300028: Pyramid001
+    2300030: Pyramid002
+    2300032: Pyramid003
+    2300034: Skyscraper_mesh
+    2300036: Skyscraper_mesh_001
+    2300038: volcano_003
+    2300040: volcano_004
+    2300042: volcano_007
+    3300000: Box001
+    3300002: Box001_001
+    3300004: Box002
+    3300006: Box002_001
+    3300008: Box002_002
+    3300010: Box002_003
+    3300012: Box002_004
+    3300014: Box004
+    3300016: Cylinder001
+    3300018: Cylinder001_001
+    3300020: Earth
+    3300022: model_004
+    3300024: Pagoda_mesh
+    3300026: Pagoda_mesh_001
+    3300028: Pyramid001
+    3300030: Pyramid002
+    3300032: Pyramid003
+    3300034: Skyscraper_mesh
+    3300036: Skyscraper_mesh_001
+    3300038: volcano_003
+    3300040: volcano_004
+    3300042: volcano_007
+    4300000: Skyscraper_mesh_001
+    4300002: Skyscraper_mesh
+    4300004: Pyramid003
+    4300006: Pyramid002
+    4300008: Pyramid001
+    4300010: Pagoda_mesh_001
+    4300012: Pagoda_mesh
+    4300014: Cylinder001_001
+    4300016: Box002_004
+    4300018: Box002_003
+    4300020: Box002_002
+    4300022: Box002_001
+    4300024: Box001_001
+    4300026: Box002
+    4300028: Box004
+    4300030: Cylinder001
+    4300032: Box001
+    4300034: model_004
+    4300036: volcano_007
+    4300038: volcano_004
+    4300040: volcano_003
+    4300042: Earth
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01___Default
+    second: {fileID: 2100000, guid: 7fdfeba82d7569642b3f9cefedb78e3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02___Default
+    second: {fileID: 2100000, guid: a8257aad80d799f45ab40da2efa879c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 03___Default
+    second: {fileID: 2100000, guid: fe0ec7ce7b4d87543ad2640f81948ecb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 07___Default
+    second: {fileID: 2100000, guid: f3e5a097b40c3034c84b7ccbbf63b136, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 07___Default_001
+    second: {fileID: 2100000, guid: 4cd4828ff7722914fa5710c2389b6520, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 08___Default
+    second: {fileID: 2100000, guid: 5e4a1da78f6c99c4597f11a6c3bd365d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 11___Default
+    second: {fileID: 2100000, guid: 8dcecd57ef3de8d4e96260b96621a6df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 13___Default
+    second: {fileID: 2100000, guid: 102246fd66ca43f4d81857aa564180dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 14___Default
+    second: {fileID: 2100000, guid: 17f58800ea9cd0b469990fe494262fa8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 15___Default
+    second: {fileID: 2100000, guid: 35e97b6541c28654dba55d6fdb871a6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 16___Default
+    second: {fileID: 2100000, guid: bb6c4c597b4e67c45958b38016305950, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 17___Default
+    second: {fileID: 2100000, guid: dfeefd0d8d62ca64084e8a5b372b6e0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 19___Default
+    second: {fileID: 2100000, guid: 5eb318e64fdbcb74f839625556d080e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 20___Default
+    second: {fileID: 2100000, guid: 5d5f90fcfe51cb94ab960e13847253ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat__1227_Earth_png
+    second: {fileID: 2100000, guid: db19bff5008925048a07522355cf8468, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__336
+    second: {fileID: 2100000, guid: 18444319fb077b040a41b4ff66cc2b9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__337
+    second: {fileID: 2100000, guid: 5129ee7819342fb4c9ec8c465abfe5f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__338
+    second: {fileID: 2100000, guid: 70266fbf4224fac4aad0b9126503a42f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__339
+    second: {fileID: 2100000, guid: 3786f9c113ca2c44db3c3d05d94ddf40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__340
+    second: {fileID: 2100000, guid: c7efa81aa9d18254c8202feb9e7e7bbf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__341
+    second: {fileID: 2100000, guid: c5b37d4f7f79be44aa9d125cf80992fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__487
+    second: {fileID: 2100000, guid: 4c7698a3f59dde34f992d7e3b8919aaf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__488
+    second: {fileID: 2100000, guid: 87a0e5f232b4ef9408253e3a1e63f4d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__489
+    second: {fileID: 2100000, guid: 95828b7c3a201d24297a719686e998e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__490
+    second: {fileID: 2100000, guid: 1915e5e691d178b4a9f2bd836ae467e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None__PUSHILIN_volcano_png
+    second: {fileID: 2100000, guid: f6718d70b504216448a8d80513e35fca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Skyscraper_mat2__Skyscraper_BaseColor_png
+    second: {fileID: 2100000, guid: 6a1cf46ead0bd2c46b256f917b640c6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2SG__Pagoda_BaseColor_png
+    second: {fileID: 2100000, guid: 0598f359b117dba4ab1c34d5d1b2e83a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat13
+    second: {fileID: 2100000, guid: fe8132998955249479f7a2785515b7e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat15
+    second: {fileID: 2100000, guid: bcab3755c35ce70498988ed5b0f6ec71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat16
+    second: {fileID: 2100000, guid: d04a71c350c1dc844a54ef88b677aa60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat21_002
+    second: {fileID: 2100000, guid: b0c1b58999beef941b965da1985253b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat23_002
+    second: {fileID: 2100000, guid: 7994099e13e768b488f701b733460e66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat6
+    second: {fileID: 2100000, guid: 7d7d5b03d75780647a074ca19d3355ea, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

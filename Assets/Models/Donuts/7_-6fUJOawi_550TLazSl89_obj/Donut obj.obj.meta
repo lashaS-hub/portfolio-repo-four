@@ -1,0 +1,969 @@
+fileFormatVersion: 2
+guid: 535f5cd03144b12458418cc4ba09ced4
+timeCreated: 1526158809
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Sphere001
+    100004: Sphere002
+    100006: Sphere004
+    100008: Sphere005
+    100010: Sphere006
+    100012: Sphere007
+    100014: Sphere009
+    100016: Sphere010
+    100018: Sphere013
+    100020: Sphere014
+    100022: Sphere015
+    100024: Sphere016
+    100026: Sphere017
+    100028: Sphere018
+    100030: Sphere019
+    100032: Sphere022
+    100034: Sphere023
+    100036: Sphere024
+    100038: Sphere025
+    100040: Sphere027
+    100042: Sphere028
+    100044: Sphere030
+    100046: Sphere031
+    100048: Sphere032
+    100050: Sphere033
+    100052: Sphere034
+    100054: Sphere035
+    100056: Sphere037
+    100058: Sphere038
+    100060: Sphere039
+    100062: Sphere040
+    100064: Sphere041
+    100066: Sphere042
+    100068: Sphere044
+    100070: Sphere045
+    100072: Sphere046
+    100074: Sphere048
+    100076: Sphere049
+    100078: Sphere050
+    100080: Sphere052
+    100082: Sphere053
+    100084: Sphere054
+    100086: Sphere055
+    100088: Sphere056
+    100090: Sphere057
+    100092: Sphere058
+    100094: Sphere059
+    100096: Sphere060
+    100098: Sphere061
+    100100: Sphere062
+    100102: Sphere063
+    100104: Sphere064
+    100106: Sphere065
+    100108: Sphere066
+    100110: Sphere067
+    100112: Sphere068
+    100114: Sphere069
+    100116: Sphere070
+    100118: Sphere071
+    100120: Sphere072
+    100122: Sphere073
+    100124: Sphere074
+    100126: Sphere075
+    100128: Sphere076
+    100130: Sphere077
+    100132: Sphere078
+    100134: Sphere079
+    100136: Sphere080
+    100138: Sphere081
+    100140: Sphere082
+    100142: Sphere083
+    100144: Sphere084
+    100146: Sphere085
+    100148: Sphere086
+    100150: Sphere087
+    100152: Sphere088
+    100154: Sphere089
+    100156: Sphere090
+    100158: Torus001
+    100160: Torus002
+    400000: //RootNode
+    400002: Sphere001
+    400004: Sphere002
+    400006: Sphere004
+    400008: Sphere005
+    400010: Sphere006
+    400012: Sphere007
+    400014: Sphere009
+    400016: Sphere010
+    400018: Sphere013
+    400020: Sphere014
+    400022: Sphere015
+    400024: Sphere016
+    400026: Sphere017
+    400028: Sphere018
+    400030: Sphere019
+    400032: Sphere022
+    400034: Sphere023
+    400036: Sphere024
+    400038: Sphere025
+    400040: Sphere027
+    400042: Sphere028
+    400044: Sphere030
+    400046: Sphere031
+    400048: Sphere032
+    400050: Sphere033
+    400052: Sphere034
+    400054: Sphere035
+    400056: Sphere037
+    400058: Sphere038
+    400060: Sphere039
+    400062: Sphere040
+    400064: Sphere041
+    400066: Sphere042
+    400068: Sphere044
+    400070: Sphere045
+    400072: Sphere046
+    400074: Sphere048
+    400076: Sphere049
+    400078: Sphere050
+    400080: Sphere052
+    400082: Sphere053
+    400084: Sphere054
+    400086: Sphere055
+    400088: Sphere056
+    400090: Sphere057
+    400092: Sphere058
+    400094: Sphere059
+    400096: Sphere060
+    400098: Sphere061
+    400100: Sphere062
+    400102: Sphere063
+    400104: Sphere064
+    400106: Sphere065
+    400108: Sphere066
+    400110: Sphere067
+    400112: Sphere068
+    400114: Sphere069
+    400116: Sphere070
+    400118: Sphere071
+    400120: Sphere072
+    400122: Sphere073
+    400124: Sphere074
+    400126: Sphere075
+    400128: Sphere076
+    400130: Sphere077
+    400132: Sphere078
+    400134: Sphere079
+    400136: Sphere080
+    400138: Sphere081
+    400140: Sphere082
+    400142: Sphere083
+    400144: Sphere084
+    400146: Sphere085
+    400148: Sphere086
+    400150: Sphere087
+    400152: Sphere088
+    400154: Sphere089
+    400156: Sphere090
+    400158: Torus001
+    400160: Torus002
+    2100000: Sphere001Mat
+    2100002: Sphere002Mat
+    2100004: Sphere004Mat
+    2100006: Sphere005Mat
+    2100008: Sphere006Mat
+    2100010: Sphere007Mat
+    2100012: Sphere009Mat
+    2100014: Sphere010Mat
+    2100016: Sphere013Mat
+    2100018: Sphere014Mat
+    2100020: Sphere015Mat
+    2100022: Sphere016Mat
+    2100024: Sphere017Mat
+    2100026: Sphere018Mat
+    2100028: Sphere019Mat
+    2100030: Sphere022Mat
+    2100032: Sphere023Mat
+    2100034: Sphere024Mat
+    2100036: Sphere025Mat
+    2100038: Sphere027Mat
+    2100040: Sphere028Mat
+    2100042: Sphere030Mat
+    2100044: Sphere031Mat
+    2100046: Sphere032Mat
+    2100048: Sphere033Mat
+    2100050: Sphere034Mat
+    2100052: Sphere035Mat
+    2100054: Sphere037Mat
+    2100056: Sphere038Mat
+    2100058: Sphere039Mat
+    2100060: Sphere040Mat
+    2100062: Sphere041Mat
+    2100064: Sphere042Mat
+    2100066: Sphere044Mat
+    2100068: Sphere045Mat
+    2100070: Sphere046Mat
+    2100072: Sphere048Mat
+    2100074: Sphere049Mat
+    2100076: Sphere050Mat
+    2100078: Sphere052Mat
+    2100080: Sphere053Mat
+    2100082: Sphere054Mat
+    2100084: Sphere055Mat
+    2100086: Sphere056Mat
+    2100088: Sphere057Mat
+    2100090: Sphere058Mat
+    2100092: Sphere059Mat
+    2100094: Sphere060Mat
+    2100096: Sphere061Mat
+    2100098: Sphere062Mat
+    2100100: Sphere063Mat
+    2100102: Sphere064Mat
+    2100104: Sphere065Mat
+    2100106: Sphere066Mat
+    2100108: Sphere067Mat
+    2100110: Sphere068Mat
+    2100112: Sphere069Mat
+    2100114: Sphere070Mat
+    2100116: Sphere071Mat
+    2100118: Sphere072Mat
+    2100120: Sphere073Mat
+    2100122: Sphere074Mat
+    2100124: Sphere075Mat
+    2100126: Sphere076Mat
+    2100128: Sphere077Mat
+    2100130: Sphere078Mat
+    2100132: Sphere079Mat
+    2100134: Sphere080Mat
+    2100136: Sphere081Mat
+    2100138: Sphere082Mat
+    2100140: Sphere083Mat
+    2100142: Sphere084Mat
+    2100144: Sphere085Mat
+    2100146: Sphere086Mat
+    2100148: Sphere087Mat
+    2100150: Sphere088Mat
+    2100152: Sphere089Mat
+    2100154: Sphere090Mat
+    2100156: Torus001Mat
+    2100158: Torus002Mat
+    2300000: Sphere001
+    2300002: Sphere002
+    2300004: Sphere004
+    2300006: Sphere005
+    2300008: Sphere006
+    2300010: Sphere007
+    2300012: Sphere009
+    2300014: Sphere010
+    2300016: Sphere013
+    2300018: Sphere014
+    2300020: Sphere015
+    2300022: Sphere016
+    2300024: Sphere017
+    2300026: Sphere018
+    2300028: Sphere019
+    2300030: Sphere022
+    2300032: Sphere023
+    2300034: Sphere024
+    2300036: Sphere025
+    2300038: Sphere027
+    2300040: Sphere028
+    2300042: Sphere030
+    2300044: Sphere031
+    2300046: Sphere032
+    2300048: Sphere033
+    2300050: Sphere034
+    2300052: Sphere035
+    2300054: Sphere037
+    2300056: Sphere038
+    2300058: Sphere039
+    2300060: Sphere040
+    2300062: Sphere041
+    2300064: Sphere042
+    2300066: Sphere044
+    2300068: Sphere045
+    2300070: Sphere046
+    2300072: Sphere048
+    2300074: Sphere049
+    2300076: Sphere050
+    2300078: Sphere052
+    2300080: Sphere053
+    2300082: Sphere054
+    2300084: Sphere055
+    2300086: Sphere056
+    2300088: Sphere057
+    2300090: Sphere058
+    2300092: Sphere059
+    2300094: Sphere060
+    2300096: Sphere061
+    2300098: Sphere062
+    2300100: Sphere063
+    2300102: Sphere064
+    2300104: Sphere065
+    2300106: Sphere066
+    2300108: Sphere067
+    2300110: Sphere068
+    2300112: Sphere069
+    2300114: Sphere070
+    2300116: Sphere071
+    2300118: Sphere072
+    2300120: Sphere073
+    2300122: Sphere074
+    2300124: Sphere075
+    2300126: Sphere076
+    2300128: Sphere077
+    2300130: Sphere078
+    2300132: Sphere079
+    2300134: Sphere080
+    2300136: Sphere081
+    2300138: Sphere082
+    2300140: Sphere083
+    2300142: Sphere084
+    2300144: Sphere085
+    2300146: Sphere086
+    2300148: Sphere087
+    2300150: Sphere088
+    2300152: Sphere089
+    2300154: Sphere090
+    2300156: Torus001
+    2300158: Torus002
+    3300000: Sphere001
+    3300002: Sphere002
+    3300004: Sphere004
+    3300006: Sphere005
+    3300008: Sphere006
+    3300010: Sphere007
+    3300012: Sphere009
+    3300014: Sphere010
+    3300016: Sphere013
+    3300018: Sphere014
+    3300020: Sphere015
+    3300022: Sphere016
+    3300024: Sphere017
+    3300026: Sphere018
+    3300028: Sphere019
+    3300030: Sphere022
+    3300032: Sphere023
+    3300034: Sphere024
+    3300036: Sphere025
+    3300038: Sphere027
+    3300040: Sphere028
+    3300042: Sphere030
+    3300044: Sphere031
+    3300046: Sphere032
+    3300048: Sphere033
+    3300050: Sphere034
+    3300052: Sphere035
+    3300054: Sphere037
+    3300056: Sphere038
+    3300058: Sphere039
+    3300060: Sphere040
+    3300062: Sphere041
+    3300064: Sphere042
+    3300066: Sphere044
+    3300068: Sphere045
+    3300070: Sphere046
+    3300072: Sphere048
+    3300074: Sphere049
+    3300076: Sphere050
+    3300078: Sphere052
+    3300080: Sphere053
+    3300082: Sphere054
+    3300084: Sphere055
+    3300086: Sphere056
+    3300088: Sphere057
+    3300090: Sphere058
+    3300092: Sphere059
+    3300094: Sphere060
+    3300096: Sphere061
+    3300098: Sphere062
+    3300100: Sphere063
+    3300102: Sphere064
+    3300104: Sphere065
+    3300106: Sphere066
+    3300108: Sphere067
+    3300110: Sphere068
+    3300112: Sphere069
+    3300114: Sphere070
+    3300116: Sphere071
+    3300118: Sphere072
+    3300120: Sphere073
+    3300122: Sphere074
+    3300124: Sphere075
+    3300126: Sphere076
+    3300128: Sphere077
+    3300130: Sphere078
+    3300132: Sphere079
+    3300134: Sphere080
+    3300136: Sphere081
+    3300138: Sphere082
+    3300140: Sphere083
+    3300142: Sphere084
+    3300144: Sphere085
+    3300146: Sphere086
+    3300148: Sphere087
+    3300150: Sphere088
+    3300152: Sphere089
+    3300154: Sphere090
+    3300156: Torus001
+    3300158: Torus002
+    4300000: Sphere001
+    4300002: Sphere002
+    4300004: Sphere004
+    4300006: Sphere005
+    4300008: Sphere006
+    4300010: Sphere007
+    4300012: Sphere009
+    4300014: Sphere010
+    4300016: Sphere013
+    4300018: Sphere014
+    4300020: Sphere015
+    4300022: Sphere016
+    4300024: Sphere017
+    4300026: Sphere018
+    4300028: Sphere019
+    4300030: Sphere022
+    4300032: Sphere023
+    4300034: Sphere024
+    4300036: Sphere025
+    4300038: Sphere027
+    4300040: Sphere028
+    4300042: Sphere030
+    4300044: Sphere031
+    4300046: Sphere032
+    4300048: Sphere033
+    4300050: Sphere034
+    4300052: Sphere035
+    4300054: Sphere037
+    4300056: Sphere038
+    4300058: Sphere039
+    4300060: Sphere040
+    4300062: Sphere041
+    4300064: Sphere042
+    4300066: Sphere044
+    4300068: Sphere045
+    4300070: Sphere046
+    4300072: Sphere048
+    4300074: Sphere049
+    4300076: Sphere050
+    4300078: Sphere052
+    4300080: Sphere053
+    4300082: Sphere054
+    4300084: Sphere055
+    4300086: Sphere056
+    4300088: Sphere057
+    4300090: Sphere058
+    4300092: Sphere059
+    4300094: Sphere060
+    4300096: Sphere061
+    4300098: Sphere062
+    4300100: Sphere063
+    4300102: Sphere064
+    4300104: Sphere065
+    4300106: Sphere066
+    4300108: Sphere067
+    4300110: Sphere068
+    4300112: Sphere069
+    4300114: Sphere070
+    4300116: Sphere071
+    4300118: Sphere072
+    4300120: Sphere073
+    4300122: Sphere074
+    4300124: Sphere075
+    4300126: Sphere076
+    4300128: Sphere077
+    4300130: Sphere078
+    4300132: Sphere079
+    4300134: Sphere080
+    4300136: Sphere081
+    4300138: Sphere082
+    4300140: Sphere083
+    4300142: Sphere084
+    4300144: Sphere085
+    4300146: Sphere086
+    4300148: Sphere087
+    4300150: Sphere088
+    4300152: Sphere089
+    4300154: Sphere090
+    4300156: Torus001
+    4300158: Torus002
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere001Mat
+    second: {fileID: 2100000, guid: 75e75be4843f5c14abee7f8e50f5689c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere002Mat
+    second: {fileID: 2100000, guid: ec4371a2da37a7949816eb00b8d0d9b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere004Mat
+    second: {fileID: 2100000, guid: 0befb6ff8ccb36245ae0f0589e7f916c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere005Mat
+    second: {fileID: 2100000, guid: a7b08c60a12b140458a5aaf90a27c059, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere006Mat
+    second: {fileID: 2100000, guid: 27f7beea0ed36fd4bbc9be3147c802b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere007Mat
+    second: {fileID: 2100000, guid: f3d98552ef79c7b4d8f8943631f96ff3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere009Mat
+    second: {fileID: 2100000, guid: fe45e2fb870c1974a825fa37b6336907, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere010Mat
+    second: {fileID: 2100000, guid: f2d312acaff63114db18064010474d9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere013Mat
+    second: {fileID: 2100000, guid: db30ac9e3298c7f41ab60c90989fa4f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere014Mat
+    second: {fileID: 2100000, guid: 04bf979aaf004fc4f85b83e07649c399, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere015Mat
+    second: {fileID: 2100000, guid: ab4f1bde04b2a7f43ac10b2383fb17e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere016Mat
+    second: {fileID: 2100000, guid: bd7f17d135c4e8f4ab389ec1f5f0f08e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere017Mat
+    second: {fileID: 2100000, guid: 59fd3c164c0773e42b44a40f643d05fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere018Mat
+    second: {fileID: 2100000, guid: a065a91f3e888ee4f8080d8969dea11b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere019Mat
+    second: {fileID: 2100000, guid: 3201fc1b11f2a78469d4df740322ca8c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere022Mat
+    second: {fileID: 2100000, guid: 3264904c523fb7d4fac616c865c850da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere023Mat
+    second: {fileID: 2100000, guid: 2c147e90580d86647a01df79762ad3ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere024Mat
+    second: {fileID: 2100000, guid: 67bd37c7cc2b5e048911848b56e52a2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere025Mat
+    second: {fileID: 2100000, guid: 81a24b90f0f486d4ebdbb3c409e4cd7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere027Mat
+    second: {fileID: 2100000, guid: d5ead91f9d752174c9e1b6919aaa5c3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere028Mat
+    second: {fileID: 2100000, guid: 0295864688e5c0b4ca4d01b6bcdc0c62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere030Mat
+    second: {fileID: 2100000, guid: cbad455a04fe9b948a680983d4df6df4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere031Mat
+    second: {fileID: 2100000, guid: 6312090980db37c46bd997980da3d564, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere032Mat
+    second: {fileID: 2100000, guid: 7bb2e77e3f082a646996ef006df25a41, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere033Mat
+    second: {fileID: 2100000, guid: b42bfe2421837884a86b20a2de9db352, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere034Mat
+    second: {fileID: 2100000, guid: ad0b85665e9df2640ba42d56c2803f83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere035Mat
+    second: {fileID: 2100000, guid: ff1368a55dc47624f8e0e397c4a2e032, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere037Mat
+    second: {fileID: 2100000, guid: fe3063473f7b25b419365ee4e9f48cd0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere038Mat
+    second: {fileID: 2100000, guid: 995b1fa06dbdd964da72d3cab59fb8e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere039Mat
+    second: {fileID: 2100000, guid: 2d1e59e7c901350459fdf6e3d6db49ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere040Mat
+    second: {fileID: 2100000, guid: 9fecf35503284b247bf86c595790fdc5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere041Mat
+    second: {fileID: 2100000, guid: 7b85cb9bddabfbb439efbd637aee37e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere042Mat
+    second: {fileID: 2100000, guid: c29cc981585b78945a6877d6245a3c22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere044Mat
+    second: {fileID: 2100000, guid: 750f64ffa6254da4dba17be9009df488, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere045Mat
+    second: {fileID: 2100000, guid: 43ffdd81ae17d0e4ba1eca328aa3e4d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere046Mat
+    second: {fileID: 2100000, guid: ea2cdbfb5f8c73347a4199dc377d7f31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere048Mat
+    second: {fileID: 2100000, guid: 88a90c14401ac5e42a1f7672f25f271b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere049Mat
+    second: {fileID: 2100000, guid: edd8e97aba5a75f4ebfc683d9db96777, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere050Mat
+    second: {fileID: 2100000, guid: d8ea6814e8b7c6c4f934749c38636fd9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere052Mat
+    second: {fileID: 2100000, guid: b2b69b7f22a0ac84b9ca820bbebbcd76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere053Mat
+    second: {fileID: 2100000, guid: ebaac1b12fcdccb4781d8304e408468b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere054Mat
+    second: {fileID: 2100000, guid: f8f4fb5d245bd474bbbcee6c711041a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere055Mat
+    second: {fileID: 2100000, guid: 3485e709fa8b40644a477f9737155fd6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere056Mat
+    second: {fileID: 2100000, guid: 8276e350c14948244a7c1c8b0456f550, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere057Mat
+    second: {fileID: 2100000, guid: 0d3edb695c1a5f743ae5c2ce907d128e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere058Mat
+    second: {fileID: 2100000, guid: 6a392497cc2de344d80494e2bf0748b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere059Mat
+    second: {fileID: 2100000, guid: c5c85397fff28e9448c2df47cab04b07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere060Mat
+    second: {fileID: 2100000, guid: e59fa8fb09547dd47b13a0fad0d81d9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere061Mat
+    second: {fileID: 2100000, guid: 40e44c7eed04ac646a8a1dce179d6d67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere062Mat
+    second: {fileID: 2100000, guid: f13a38d6a1f864748a5b65b8bbf8f2fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere063Mat
+    second: {fileID: 2100000, guid: 9ebabd51df20fde4cb4de3879e5855e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere064Mat
+    second: {fileID: 2100000, guid: 081e0d5660a9bc24a8d4144cd25493a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere065Mat
+    second: {fileID: 2100000, guid: b6bb456ce1285b644ad5b2d484f0452e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere066Mat
+    second: {fileID: 2100000, guid: 3e6426fd077bdd242b0e0f582e61052e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere067Mat
+    second: {fileID: 2100000, guid: a7ba7f7cd61f1714a9ed944f0725ab27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere068Mat
+    second: {fileID: 2100000, guid: 49f747faaca088e43be470b810a6f02e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere069Mat
+    second: {fileID: 2100000, guid: f28ba4e879d46ef49b249871b0cf688d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere070Mat
+    second: {fileID: 2100000, guid: 3f71585f06297314699a74090cd14331, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere071Mat
+    second: {fileID: 2100000, guid: b78d609a10696d34baccdb04a19fa694, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere072Mat
+    second: {fileID: 2100000, guid: c5eab024d31d1274c9b5ab9519bbb0b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere073Mat
+    second: {fileID: 2100000, guid: 8d85090df76e2de4d93d08039e7b30fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere074Mat
+    second: {fileID: 2100000, guid: 829de9158580ae94b8d90aa13d12be68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere075Mat
+    second: {fileID: 2100000, guid: 9424d5704a03a924589f73f8c73fda47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere076Mat
+    second: {fileID: 2100000, guid: 9208ead25acbcd54f82eb3a57a97859f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere077Mat
+    second: {fileID: 2100000, guid: 943c89f99971625469cece2b80867ce5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere078Mat
+    second: {fileID: 2100000, guid: 744c5419af60b9549a6afbd8592b7a29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere079Mat
+    second: {fileID: 2100000, guid: 9dd7f14ceb68bbc46a98ad12ad2802f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere080Mat
+    second: {fileID: 2100000, guid: a2df097d2a5da7d47b2ab05b143c6b37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere081Mat
+    second: {fileID: 2100000, guid: faa61da38cf681b4382fe7ef7324c4e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere082Mat
+    second: {fileID: 2100000, guid: 76986cd7b5dbadb4782c50715efa0ebb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere083Mat
+    second: {fileID: 2100000, guid: deb5bd5b09e59c04b9f688c9f6ab11e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere084Mat
+    second: {fileID: 2100000, guid: 8f57be57de782324b9f79c6369897a88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere085Mat
+    second: {fileID: 2100000, guid: 434f7dd68b7964f458675fd5a5aaab1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere086Mat
+    second: {fileID: 2100000, guid: 0c928761bea7cfc46896c5923db7427f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere087Mat
+    second: {fileID: 2100000, guid: f28860c656de870429baa13e7a66f2ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere088Mat
+    second: {fileID: 2100000, guid: 7d05870e019a96746ae9b6d71717689e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere089Mat
+    second: {fileID: 2100000, guid: d81cfb4bb546d6f4a9e00368c7133416, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere090Mat
+    second: {fileID: 2100000, guid: e57f7bc1db5fd9d4abeea8fc5dc2176f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Torus001Mat
+    second: {fileID: 2100000, guid: 55491c26bed7cda41b3ea19b2c7eec68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Torus002Mat
+    second: {fileID: 2100000, guid: 76ec8b7ab82306643883f686c66869f0, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

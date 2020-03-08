@@ -1,0 +1,435 @@
+fileFormatVersion: 2
+guid: 6d4043972c2f49c4ab20988158474b84
+timeCreated: 1526138242
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Cube
+    100002: Cube_001
+    100004: Cube_002
+    100006: Cube_003
+    100008: Cube_004
+    100010: Cube_005
+    100012: Cube_006
+    100014: Cube_007
+    100016: Cube_008
+    100018: Cube_009
+    100020: Cube_010
+    100022: Cube_039
+    100024: //RootNode
+    100026: Dinosaurs_01_Cube_000
+    100028: Dinosaurs_01_Cube_001
+    100030: Dinosaurs_01_Cube_019
+    100032: Earth
+    100034: model_000
+    100036: model_001
+    100038: model_002
+    100040: model_003
+    100042: model_004
+    100044: model_005
+    100046: model_006
+    100048: model_007
+    100050: Symmetry_000
+    100052: Symmetry_002
+    100054: Symmetry_003
+    100056: Symmetry_004
+    100058: Symmetry_1
+    100060: Torus_007
+    100062: volcano
+    100064: volcano_001
+    100066: volcano_002
+    100068: volcano_003
+    100070: volcano_004
+    100072: volcano_005
+    100074: volcano_006
+    100076: volcano_007
+    100078: volcano_008
+    100080: volcano_009
+    400000: Cube
+    400002: Cube_001
+    400004: Cube_002
+    400006: Cube_003
+    400008: Cube_004
+    400010: Cube_005
+    400012: Cube_006
+    400014: Cube_007
+    400016: Cube_008
+    400018: Cube_009
+    400020: Cube_010
+    400022: Cube_039
+    400024: //RootNode
+    400026: Dinosaurs_01_Cube_000
+    400028: Dinosaurs_01_Cube_001
+    400030: Dinosaurs_01_Cube_019
+    400032: Earth
+    400034: model_000
+    400036: model_001
+    400038: model_002
+    400040: model_003
+    400042: model_004
+    400044: model_005
+    400046: model_006
+    400048: model_007
+    400050: Symmetry_000
+    400052: Symmetry_002
+    400054: Symmetry_003
+    400056: Symmetry_004
+    400058: Symmetry_1
+    400060: Torus_007
+    400062: volcano
+    400064: volcano_001
+    400066: volcano_002
+    400068: volcano_003
+    400070: volcano_004
+    400072: volcano_005
+    400074: volcano_006
+    400076: volcano_007
+    400078: volcano_008
+    400080: volcano_009
+    2100000: 8BC34A
+    2100002: 1A1A1A_001
+    2100004: 4CAF50
+    2100006: FFFFFF_001
+    2100008: FFCC88
+    2100010: 009688
+    2100012: 1A1A1A
+    2100014: FFFFFF
+    2100016: mat6
+    2100018: mat16
+    2100020: mat13
+    2100022: mat23_002
+    2100024: mat15
+    2100026: mat21_002
+    2100028: mat19_001
+    2100030: mat23_001
+    2100032: mat21_001
+    2100034: Black
+    2100036: LightBlue
+    2100038: DarkBlue
+    2100040: None__PUSHILIN_volcano_png
+    2100042: None
+    2100044: unnamed
+    2100046: Mat__1227_Earth_png
+    2300000: Cube
+    2300002: Cube_001
+    2300004: Cube_002
+    2300006: Cube_003
+    2300008: Cube_004
+    2300010: Cube_005
+    2300012: Cube_006
+    2300014: Cube_007
+    2300016: Cube_008
+    2300018: Cube_009
+    2300020: Cube_010
+    2300022: Cube_039
+    2300024: Dinosaurs_01_Cube_000
+    2300026: Dinosaurs_01_Cube_001
+    2300028: Dinosaurs_01_Cube_019
+    2300030: Earth
+    2300032: model_000
+    2300034: model_001
+    2300036: model_002
+    2300038: model_003
+    2300040: model_004
+    2300042: model_005
+    2300044: model_006
+    2300046: model_007
+    2300048: Symmetry_000
+    2300050: Symmetry_002
+    2300052: Symmetry_003
+    2300054: Symmetry_004
+    2300056: Symmetry_1
+    2300058: Torus_007
+    2300060: volcano
+    2300062: volcano_001
+    2300064: volcano_002
+    2300066: volcano_003
+    2300068: volcano_004
+    2300070: volcano_005
+    2300072: volcano_006
+    2300074: volcano_007
+    2300076: volcano_008
+    2300078: volcano_009
+    3300000: Cube
+    3300002: Cube_001
+    3300004: Cube_002
+    3300006: Cube_003
+    3300008: Cube_004
+    3300010: Cube_005
+    3300012: Cube_006
+    3300014: Cube_007
+    3300016: Cube_008
+    3300018: Cube_009
+    3300020: Cube_010
+    3300022: Cube_039
+    3300024: Dinosaurs_01_Cube_000
+    3300026: Dinosaurs_01_Cube_001
+    3300028: Dinosaurs_01_Cube_019
+    3300030: Earth
+    3300032: model_000
+    3300034: model_001
+    3300036: model_002
+    3300038: model_003
+    3300040: model_004
+    3300042: model_005
+    3300044: model_006
+    3300046: model_007
+    3300048: Symmetry_000
+    3300050: Symmetry_002
+    3300052: Symmetry_003
+    3300054: Symmetry_004
+    3300056: Symmetry_1
+    3300058: Torus_007
+    3300060: volcano
+    3300062: volcano_001
+    3300064: volcano_002
+    3300066: volcano_003
+    3300068: volcano_004
+    3300070: volcano_005
+    3300072: volcano_006
+    3300074: volcano_007
+    3300076: volcano_008
+    3300078: volcano_009
+    4300000: Dinosaurs_01_Cube_001
+    4300002: Dinosaurs_01_Cube_000
+    4300004: Dinosaurs_01_Cube_019
+    4300006: Cube_010
+    4300008: Cube_009
+    4300010: Cube_008
+    4300012: Cube_039
+    4300014: model_007
+    4300016: model_006
+    4300018: model_005
+    4300020: model_004
+    4300022: model_003
+    4300024: model_000
+    4300026: model_002
+    4300028: model_001
+    4300030: Symmetry_004
+    4300032: Symmetry_003
+    4300034: Symmetry_002
+    4300036: Symmetry_000
+    4300038: Symmetry_1
+    4300040: volcano_009
+    4300042: volcano_008
+    4300044: volcano_007
+    4300046: volcano_006
+    4300048: volcano_005
+    4300050: volcano_004
+    4300052: volcano_003
+    4300054: volcano_002
+    4300056: volcano_001
+    4300058: volcano
+    4300060: Torus_007
+    4300062: Earth
+    4300064: Cube_005
+    4300066: Cube_004
+    4300068: Cube_003
+    4300070: Cube_002
+    4300072: Cube_001
+    4300074: Cube
+    4300076: Cube_007
+    4300078: Cube_006
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 009688
+    second: {fileID: 2100000, guid: a7b65224ff51ebf4bad56b2164bbf58a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1A1A1A
+    second: {fileID: 2100000, guid: e4f48bc818fe7514d9e0540a743d6836, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1A1A1A_001
+    second: {fileID: 2100000, guid: 64982a519e7bbb84f8978c14d611b660, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 4CAF50
+    second: {fileID: 2100000, guid: d397f6c7eb957d54b9190a79f6620132, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 8BC34A
+    second: {fileID: 2100000, guid: 9eed7499bfc73fc40bfdf2bc807ebfdb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black
+    second: {fileID: 2100000, guid: 9115a5ffd19b6944e90679610cd47c8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DarkBlue
+    second: {fileID: 2100000, guid: b060e40eec9958148bc66a095a2b103f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FFCC88
+    second: {fileID: 2100000, guid: 120d7161bb723d34bbeaa44fbe69506e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FFFFFF
+    second: {fileID: 2100000, guid: 82b6ee0609308914e9f095c86965138e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FFFFFF_001
+    second: {fileID: 2100000, guid: cac3f684c41f9634197b9b71b3e5c64a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LightBlue
+    second: {fileID: 2100000, guid: 141e721fdac4411448f8ee5a02604d9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat__1227_Earth_png
+    second: {fileID: 2100000, guid: f3d569b4654ffe74c8bea9d8d5bed16f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None
+    second: {fileID: 2100000, guid: 48a8919078d86ef43a1bd7048f6a1174, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None__PUSHILIN_volcano_png
+    second: {fileID: 2100000, guid: df64e1c3fda3ab2498c348d7433962bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat13
+    second: {fileID: 2100000, guid: 00debc9359dd2fa4ca6b642f8e0a5d13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat15
+    second: {fileID: 2100000, guid: 65d8b9d0d81b0024c88753e104b3fc5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat16
+    second: {fileID: 2100000, guid: 0f1088b0f7ee5a343ae9d251a420dd24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat19_001
+    second: {fileID: 2100000, guid: 951cf171ce7c8d44ba6673042132965e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat21_001
+    second: {fileID: 2100000, guid: 96a62fe9e5736af4bb10400fcd1126b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat21_002
+    second: {fileID: 2100000, guid: 28d3ad0277af4c849a23b63280dacdbd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat23_001
+    second: {fileID: 2100000, guid: 08ae029f04438e143a1248d5872f00b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat23_002
+    second: {fileID: 2100000, guid: b07e7cf5cf32ff046aaefcad538c805e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat6
+    second: {fileID: 2100000, guid: 4bceff7f8209bbe4b9ca84e412837f68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: unnamed
+    second: {fileID: 2100000, guid: 803c862d1044b364b9d054848319c0ae, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

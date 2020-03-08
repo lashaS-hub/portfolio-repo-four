@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.vungle.vungle_lib" android:versionName="1.0" android:versionCode="1" android:installLocation="preferExternal">
+  <meta-data android:name="com.google.android.gms.version" android:value="11020000" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+  <uses-permission android:name="android.permission.WAKE_LOCK" />
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" android:maxSdkVersion="18" />
+  <uses-feature android:name="android.hardware.touchscreen" android:required="false" />
+  <uses-feature android:name="android.hardware.touchscreen.multitouch" android:required="false" />
+  <uses-feature android:name="android.hardware.touchscreen.multitouch.distinct" android:required="false" />
+  <uses-feature android:name="android.software.leanback" />
+  
+  <application>
+    <activity android:name="com.vungle.warren.ui.VungleActivity" android:launchMode="singleTop" android:configChanges="keyboardHidden|orientation|screenSize|screenLayout|smallestScreenSize" android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+    <service android:name="com.evernote.android.job.v21.PlatformJobService" android:exported="false" android:permission="android.permission.BIND_JOB_SERVICE" />
+    <service android:name="com.evernote.android.job.v14.PlatformAlarmService" android:exported="false" android:permission="android.permission.BIND_JOB_SERVICE" />
+    <service android:name="com.evernote.android.job.v14.PlatformAlarmServiceExact" android:exported="false" />
+    <receiver android:name="com.evernote.android.job.v14.PlatformAlarmReceiver" android:exported="false">
+      <intent-filter>
+        <!-- Keep the filter for legacy intents -->
+        <action android:name="com.evernote.android.job.v14.RUN_JOB" />
+        <action android:name="net.vrallev.android.job.v14.RUN_JOB" />
+      </intent-filter>
+    </receiver>
+    <receiver android:name="com.evernote.android.job.JobBootReceiver" android:exported="false">
+      <intent-filter>
+        <action android:name="android.intent.action.BOOT_COMPLETED" />
+        <action android:name="android.intent.action.QUICKBOOT_POWERON" />
+        <action android:name="com.htc.intent.action.QUICKBOOT_POWERON" />
+        <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
+      </intent-filter>
+    </receiver>
+
+    <service android:name="com.evernote.android.job.JobRescheduleService" android:exported="false" android:permission="android.permission.BIND_JOB_SERVICE" />
+    <service android:name="com.tonyodev.fetch.FetchService" android:exported="false" />
+    <meta-data android:name="unity.build-id" android:value="a5c9ea06-642a-4ec8-b8cf-707a2551ab0b" />
+    <meta-data android:name="unity.splash-mode" android:value="0" />
+    <meta-data android:name="unity.splash-enable" android:value="True" />
+    <meta-data android:name="android.max_aspect" android:value="2.1" />
+  </application>
+
+</manifest>
